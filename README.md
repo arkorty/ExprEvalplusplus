@@ -1,3 +1,5 @@
+![cover.png](blob/cover.png)
+
 # ExprEval++
 
 This C++ program provides a simple arithmetic expression evaluator based on Abstract Syntax Trees (AST). It supports constants, variables, unary operations (unary plus and unary minus), and binary operations (addition, subtraction, multiplication, division, and exponentiation).
